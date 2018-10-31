@@ -1,0 +1,49 @@
+# OSX Junk
+.DS_Store
+
+# VS Code Junk
+.vsls.json
+
+# Logs
+/logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# for vim
+*.swp
+*.sly
+
+# Jetbrains
+.idea/**
+
+# Botpress Build
+/out
+/tmp
+test-report.html
+metadata.json
+edition.json
+
+# Botpress docs
+/docs/reference
+/docs/guide/build
